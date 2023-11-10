@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clif
+Version: 0.2.2
+Summary: CLImate Fingerprinting methods
+Home-page: 
+Author: ['Kenny Chowdhary', 'Jake Nichol']
+Author-email: kchowdh@sandia.gov
+License: BSD3
